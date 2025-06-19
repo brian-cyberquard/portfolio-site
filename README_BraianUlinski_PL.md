@@ -7,7 +7,9 @@ To jest statyczna wersja mojej strony internetowej zbudowanej w WordPressie. Str
 - Motyw: Astra
 - Edytor: Elementor
 - HTML, CSS, JavaScript, PHP
-- Google reCAPTCHA, wielojęzyczność (Gtranslate)
+- Google reCAPTCHA, wielojęzyczność (Gtranslate), Limit Login Attempts
+- WP Fastest Cache, WP ULike, Search & Filter, Converter for Media, ACF
+- Ultimate Member
 
 ## 🔧 Funkcje strony:
 - ✍️ Możliwość **zakładania kont przez użytkowników** oraz edycji profilu

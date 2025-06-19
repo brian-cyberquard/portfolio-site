@@ -7,7 +7,9 @@ This is a static version of my website originally built in WordPress. The site w
 - Theme: Astra
 - Builder: Elementor
 - HTML, CSS, JavaScript, PHP
-- Google reCAPTCHA, multilingual support (Gtranslate)
+- Google reCAPTCHA, multilingual support (Gtranslate), Limit Login Attempts
+- WP Fastest Cache, WP ULike, Search & Filter, Converter for Media, ACF
+- Ultimate Member
 
 ## 🔧 Key Features:
 - ✍️ Users can **create accounts** to access the platform and editing profiles
