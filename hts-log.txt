@@ -1,0 +1,71 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 19 Jun 2025 18:52:48 at https://fitrate.com.pl/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar+*.css +*.js +*.jpg +*.jpeg +*.png +*.gif +*.svg +*.woff +*.woff2 +*.ttf +*.eot +*.otf +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pl, en, *" https://fitrate.com.pl/ -O1 "C:\Moje Portfolio\Portfolio_FitRate2" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar+*.css +*.js +*.jpg +*.jpeg +*.png +*.gif +*.svg +*.woff +*.woff2 +*.ttf +*.eot +*.otf +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:54:44	Warning: 	Found for https://fitrate.com.pl/author/braianspoko/
+18:54:44	Warning: 	File has moved from https://fitrate.com.pl/author/braianspoko/ to https://fitrate.com.pl/user/braianspoko/
+18:54:47	Warning: 	Found for https://fitrate.com.pl/author/braianfitrate/
+18:54:47	Warning: 	File has moved from https://fitrate.com.pl/author/braianfitrate/ to https://fitrate.com.pl/user/braianfitrate/
+18:54:52	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=403
+18:54:52	Warning: 	File has moved from https://fitrate.com.pl/?p=403 to https://fitrate.com.pl/dodaj-przepis/
+18:54:52	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=444
+18:54:52	Warning: 	File has moved from https://fitrate.com.pl/?p=444 to https://fitrate.com.pl/przepisy-2/
+18:54:53	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=994
+18:54:53	Warning: 	File has moved from https://fitrate.com.pl/?p=994 to https://fitrate.com.pl/potrawy/
+18:54:54	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=385
+18:54:54	Warning: 	File has moved from https://fitrate.com.pl/?p=385 to https://fitrate.com.pl/owsianki/
+18:54:54	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=996
+18:54:54	Warning: 	File has moved from https://fitrate.com.pl/?p=996 to https://fitrate.com.pl/koktajle/
+18:54:54	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=998
+18:54:54	Warning: 	File has moved from https://fitrate.com.pl/?p=998 to https://fitrate.com.pl/desery/
+18:54:57	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=105
+18:54:57	Warning: 	File has moved from https://fitrate.com.pl/?p=105 to https://fitrate.com.pl/about-2/
+18:54:57	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=107
+18:54:57	Warning: 	File has moved from https://fitrate.com.pl/?p=107 to https://fitrate.com.pl/kontakt/
+18:54:57	Error: 	"Not Found" (404) at link https://fitrate.com.pl/kontakt/%22https:/fitrate.com.pl/polityka-prywatnosci/%22span (from https://fitrate.com.pl/kontakt/)
+18:54:59	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=431
+18:54:59	Warning: 	File has moved from https://fitrate.com.pl/?p=431 to https://fitrate.com.pl/login/
+18:55:02	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=432
+18:55:02	Warning: 	File has moved from https://fitrate.com.pl/?p=432 to https://fitrate.com.pl/register/
+18:55:02	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=jajka not scanned (follow robots meta tag)
+18:55:02	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=maslo not scanned (follow robots meta tag)
+18:55:03	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=vege not scanned (follow robots meta tag)
+18:55:03	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=redukcja not scanned (follow robots meta tag)
+18:55:04	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=masa not scanned (follow robots meta tag)
+18:55:04	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=kakao not scanned (follow robots meta tag)
+18:55:04	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=skyr not scanned (follow robots meta tag)
+18:55:05	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=czekolada not scanned (follow robots meta tag)
+18:55:05	Warning: 	Link https://fitrate.com.pl/kategoria/desery/?post_tags=orzechy not scanned (follow robots meta tag)
+18:55:06	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=jajka not scanned (follow robots meta tag)
+18:55:06	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=maslo not scanned (follow robots meta tag)
+18:55:07	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=vege not scanned (follow robots meta tag)
+18:55:07	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=redukcja not scanned (follow robots meta tag)
+18:55:08	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=masa not scanned (follow robots meta tag)
+18:55:08	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=kakao not scanned (follow robots meta tag)
+18:55:08	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=skyr not scanned (follow robots meta tag)
+18:55:09	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=czekolada not scanned (follow robots meta tag)
+18:55:09	Warning: 	Link https://fitrate.com.pl/kategoria/potrawy/?post_tags=orzechy not scanned (follow robots meta tag)
+18:55:10	Error: 	"Not Found" (404) at link https://fitrate.com.pl/przepisy/ryz-gotowany/feed/ (from https://fitrate.com.pl/przepisy/ryz-gotowany/)
+18:55:17	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=754
+18:55:17	Warning: 	File has moved from https://fitrate.com.pl/?p=754 to https://fitrate.com.pl/przepisy/ryz-gotowany/
+18:55:20	Error: 	"Not Found" (404) at link https://fitrate.com.pl/przepisy/kura/feed/ (from https://fitrate.com.pl/przepisy/kura/)
+18:55:20	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=420
+18:55:20	Warning: 	File has moved from https://fitrate.com.pl/?p=420 to https://fitrate.com.pl/przepisy/kura/
+18:55:23	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=282
+18:55:23	Warning: 	File has moved from https://fitrate.com.pl/?p=282 to https://fitrate.com.pl/przepisy/piers-z-kurczaka-z-brzoskwiniami/
+18:55:23	Error: 	"Not Found" (404) at link https://fitrate.com.pl/wp-content/plugins/xpro-elementor-addons/assets/vendor/img/cbp-sprite.png (from https://fitrate.com.pl/wp-content/cache/wpfc-minified/ouhz58h/ab0x.css)
+18:55:23	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=535
+18:55:23	Warning: 	File has moved from https://fitrate.com.pl/?p=535 to https://fitrate.com.pl/polityka-prywatnosci/
+18:55:23	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=436
+18:55:23	Warning: 	File has moved from https://fitrate.com.pl/?p=436 to https://fitrate.com.pl/password-reset/
+18:55:24	Warning: 	Moved Permanently for https://fitrate.com.pl/?p=430
+18:55:24	Warning: 	File has moved from https://fitrate.com.pl/?p=430 to https://fitrate.com.pl/user/
+18:55:39	Warning: 	Found for https://fitrate.com.pl/user/
+18:55:39	Warning: 	File has moved from https://fitrate.com.pl/user/ to https://fitrate.com.pl
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 10 seconds : 413 links scanned, 389 files written (30414533 bytes overall) [13938511 bytes received at 73360 bytes/sec], 23063772 bytes transferred using HTTP compression in 264 files, ratio 24%, 19.6 requests per connection
+(4 errors, 56 warnings, 0 messages)
